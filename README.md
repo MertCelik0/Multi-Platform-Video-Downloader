@@ -4,6 +4,6 @@ Setup: <br />
 
 1- Install modules with "yarn", <br />
 2- Start Expo server with "expo start", <br />
-3- Select Platform "IOS: i, Andoird: a, Web: w" <br />
+3- Select Platform press key "IOS: i, Andoird: a, Web: w" <br />
 Thats it!
 
