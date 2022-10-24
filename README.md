@@ -7,3 +7,4 @@ Setup: <br />
 3- Select Platform press key "IOS: i, Andoird: a, Web: w" <br />
 Thats it!
 
+<img src="https://i.ibb.co/n1C1mvz/Ekran-Resmi-2022-10-24-23-03-52.png" width="200" height="400" />
